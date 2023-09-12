@@ -1,5 +1,5 @@
-##Pokémon App 🌟
-#Descripción 📚
+# Pokémon App 🌟
+# Descripción 📚
 Bienvenido a Pokémon App, una aplicación de Android nativa desarrollada en Kotlin. Esta app te brinda toda la información que necesitas saber sobre tus Pokémon favoritos, con una interfaz de usuario atractiva y animaciones suaves.
 
 Demo
